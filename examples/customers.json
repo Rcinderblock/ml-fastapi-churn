@@ -1,0 +1,35 @@
+[
+  {
+    "monthly_fee": 19.99,
+    "usage_hours": 8.5,
+    "support_requests": 3,
+    "account_age_months": 6,
+    "failed_payments": 1,
+    "region": "europe",
+    "device_type": "mobile",
+    "payment_method": "card",
+    "autopay_enabled": 0
+  },
+  {
+    "monthly_fee": 9.99,
+    "usage_hours": 40.0,
+    "support_requests": 0,
+    "account_age_months": 30,
+    "failed_payments": 0,
+    "region": "europe",
+    "device_type": "mobile",
+    "payment_method": "card",
+    "autopay_enabled": 1
+  },
+  {
+    "monthly_fee": 49.99,
+    "usage_hours": 1.0,
+    "support_requests": 4,
+    "account_age_months": 1,
+    "failed_payments": 2,
+    "region": "europe",
+    "device_type": "mobile",
+    "payment_method": "card",
+    "autopay_enabled": 0
+  }
+]
