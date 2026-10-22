@@ -1,4 +1,15 @@
 {
+  "environment": {
+    "python": "3.12.12",
+    "system": "Darwin",
+    "machine": "arm64",
+    "packages": {
+      "numpy": "2.5.4",
+      "pandas": "3.0.6",
+      "scikit-learn": "1.9.1"
+    },
+    "operating_system": "macOS"
+  },
   "dataset": {
     "rows": 2000,
     "class_distribution": {

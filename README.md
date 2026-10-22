@@ -154,6 +154,7 @@ ruff format --check .
 Примеры клиентов: `examples/customer.json`, `examples/customers.json`.
 Результаты сравнения двух настроек на одной тестовой выборке:
 `examples/training_comparison.json`.
+Метрики ниже получены локально на macOS; версии Python и библиотек указаны в JSON.
 
 | Модель | Accuracy | F1 для churn=1 | ROC AUC |
 |---|---:|---:|---:|
